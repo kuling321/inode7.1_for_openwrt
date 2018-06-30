@@ -1,7 +1,8 @@
 USED:
 
 1.Download  the wuliclient directory to openwrt sdk packages directory.
-[if you school H3C server ip is different from my ,you should modify it.
+
+[if you school H3C server ip is different from mine ,you should modify it.
  edit wuliclient.c and modify maroc of SER_ADRE SER_PORT and so on]
 
 2.back to sdk top directory
